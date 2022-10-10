@@ -1,0 +1,1 @@
+import{_ as s,c as t,o as a,a as e}from"./app.afda1b1a.js";const f=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"utils/test.md","lastUpdated":1659168634000}'),n={name:"utils/test.md"},c=e("",2),o=[c];function p(_,l,r,i,d,g){return a(),t("div",null,o)}const m=s(n,[["render",p]]);export{f as __pageData,m as default};
