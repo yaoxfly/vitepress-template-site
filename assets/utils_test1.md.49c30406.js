@@ -1,0 +1,1 @@
+import{_ as t,c as e,o as a,a as s}from"./app.6183befe.js";const r=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"utils/test1.md","lastUpdated":1659086969000}'),n={name:"utils/test1.md"},l=[s("p",null,"测试",-1)];const d=t(n,[["render",function(t,s,r,n,d,i){return a(),e("div",null,l)}]]);export{r as __pageData,d as default};
