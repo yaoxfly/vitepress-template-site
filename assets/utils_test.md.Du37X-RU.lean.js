@@ -1,0 +1,1 @@
+import{_ as s,c as t,o as a,d as e}from"./app.CTERtm0_.js";const i=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"utils/test.md","filePath":"utils/test.md","lastUpdated":1659168634000}'),l={name:"utils/test.md"},n=[e("",2)];const p=s(l,[["render",function(s,e,i,l,p,d){return a(),t("div",null,n)}]]);export{i as __pageData,p as default};
